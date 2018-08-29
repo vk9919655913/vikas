@@ -395,7 +395,7 @@ while($row = mysqli_fetch_assoc($run)){
 
 </div>
 <div style="text-align:center; max-width:900px; min-width:400px; max-height:30px;" class="w3-container w3-teal">
-  &copy; 1997-<?php echo date("Y");?> SDLV All Rights Reserved
+  &copy; 2000-<?php echo date("Y");?> SDLV All Rights Reserved
 </div>
 
 </body>
